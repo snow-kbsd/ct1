@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-04 03:50:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b75f40f267401200b13375f557415a26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_tiptap_test.sn_tiptap_test_user</sys_name>
+        <sys_package display_value="Tiptap" source="sn_tiptap">fb3f00f267401200b13375f557415aae</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tiptap">fb3f00f267401200b13375f557415aae</sys_scope>
+        <sys_security_acl display_value="sn_tiptap_test">fb5f40f267401200b13375f557415a25</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b75f40f267401200b13375f557415a26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-04 03:50:51</sys_updated_on>
+        <sys_user_role display_value="sn_tiptap_test_user" name="sn_tiptap_test_user">735f40f267401200b13375f557415a21</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
